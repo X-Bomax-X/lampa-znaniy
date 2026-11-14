@@ -1,0 +1,756 @@
+{
+  "id": "spanish",
+  "title": "Испанский язык",
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Настоящее время",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Впиши форму hablar: Yo ___ español.",
+          "explanation": "В первом лице единственного числа у hablar окончание -o.",
+          "accepted": [
+            "hablo"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Впиши форму vivir: Nosotros ___ cerca del colegio.",
+          "explanation": "Для nosotros у глагола vivir окончание -imos.",
+          "accepted": [
+            "vivimos"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери форму tener: Marta ___ dos hermanos.",
+          "explanation": "Третье лицо единственного числа глагола tener — tiene.",
+          "choices": [
+            "tenemos",
+            "tienen",
+            "tengo",
+            "tiene"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Впиши форму ir: Tú ___ al cine los viernes.",
+          "explanation": "Глагол ir с tú принимает форму vas.",
+          "accepted": [
+            "vas"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери форму hacer: ¿Qué ___ vosotros los sábados?",
+          "explanation": "С vosotros употребляется hacéis.",
+          "choices": [
+            "hacen",
+            "haces",
+            "hacemos",
+            "hacéis"
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02",
+      "title": "Прошедшее время",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Впиши форму pretérito indefinido: Ayer yo ___ (comprar) un libro.",
+          "explanation": "В первом лице единственного числа у глагола на -ar в этом времени окончание -é.",
+          "accepted": [
+            "compré"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Выбери форму: El año pasado nosotros ___ a Sevilla.",
+          "explanation": "Fuimos — форма ir для nosotros в завершённом прошлом.",
+          "choices": [
+            "fuimos",
+            "va",
+            "vamos",
+            "voy"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "text",
+          "prompt": "Впиши причастие: He ___ (escribir) un mensaje.",
+          "explanation": "Неправильное причастие escribir — escrito.",
+          "accepted": [
+            "escrito"
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Выбери форму imperfecto: Cuando era niño, ___ en el parque todos los días.",
+          "explanation": "Todos los días описывает повторявшееся действие на фоне прошлого.",
+          "choices": [
+            "jugaré",
+            "jugaba",
+            "juega",
+            "jugar"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери правильную форму pretérito perfecto compuesto.",
+          "explanation": "Для ellos нужно han и причастие visto.",
+          "choices": [
+            "Ellos ha visto la película.",
+            "Ellos han ver la película.",
+            "Ellos son visto la película.",
+            "Ellos han visto la película."
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03",
+      "title": "Будущее и планы",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как правильно сказать «Я собираюсь учиться сегодня вечером»?",
+          "explanation": "Ir a + инфинитив выражает план. Для yo нужна форма voy.",
+          "choices": [
+            "Vas a estudiar esta noche.",
+            "Voy estudiar esta noche.",
+            "Voy a estudiar esta noche.",
+            "Voy a estudié esta noche."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Впиши futuro simple глагола viajar: Mañana yo ___ a Madrid.",
+          "explanation": "В первом лице единственного числа к инфинитиву добавляется -é.",
+          "accepted": [
+            "viajaré"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери правильную форму: El próximo verano nosotros ___ en la montaña.",
+          "explanation": "Для nosotros в будущем времени нужна форма estaremos.",
+          "choices": [
+            "estabas",
+            "estaremos",
+            "estarán",
+            "estoy"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как сказать «Я должен закончить домашнее задание»?",
+          "explanation": "Tener que + инфинитив выражает необходимость.",
+          "choices": [
+            "Tengo que terminar los deberes.",
+            "Tengo de terminé los deberes.",
+            "Tengo terminar los deberes.",
+            "Soy que termino los deberes."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как спросить о планах на субботу?",
+          "explanation": "Vas a hacer спрашивает о запланированном действии.",
+          "choices": [
+            "¿Cuántos años tienes?",
+            "¿Qué hiciste ayer?",
+            "¿Qué vas a hacer el sábado?",
+            "¿Dónde estás ahora?"
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04",
+      "title": "Ser, estar и hay",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Вставь форму: Ana ___ médica.",
+          "explanation": "Профессию называют с ser. Для Ana форма es.",
+          "choices": [
+            "está",
+            "hay",
+            "son",
+            "es"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Вставь форму estar: El museo ___ cerca de la estación.",
+          "explanation": "Местоположение здания передаётся через estar. Подлежащее в единственном числе.",
+          "accepted": [
+            "está"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Вставь форму: En mi barrio ___ una piscina.",
+          "explanation": "Hay сообщает о наличии объекта.",
+          "choices": [
+            "hay",
+            "estoy",
+            "son",
+            "están"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Вставь форму: Hoy mis amigos ___ cansados.",
+          "explanation": "Текущее состояние передаётся с estar, для mis amigos нужна форма están.",
+          "choices": [
+            "están",
+            "es",
+            "hay",
+            "son"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "match",
+          "prompt": "Соедини конструкцию и значение.",
+          "explanation": "Ser описывает материал, estar — место, hay — наличие.",
+          "left": [
+            "Es de madera.",
+            "Está en el centro.",
+            "Hay dos puertas."
+          ],
+          "choices": [
+            "наличие",
+            "местоположение",
+            "материал"
+          ],
+          "matches": [
+            2,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05",
+      "title": "Артикли и согласование",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Выбери определённый артикль: ___ casa es grande.",
+          "explanation": "Casa — женский род, единственное число.",
+          "choices": [
+            "Los",
+            "La",
+            "Las",
+            "El"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Вставь неопределённый артикль: Tengo ___ libro nuevo.",
+          "explanation": "Libro — существительное мужского рода, единственного числа.",
+          "accepted": [
+            "un"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери форму: dos camisas ___.",
+          "explanation": "Прилагательное согласуется с camisas в женском роде и множественном числе.",
+          "choices": [
+            "blanco",
+            "blanca",
+            "blancas",
+            "blancos"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Напиши множественное число lápiz.",
+          "explanation": "Добавляется -es, а z перед e меняется на c. Ударение остаётся на первом слоге.",
+          "accepted": [
+            "lápices"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как правильно сказать «красная машина» с определённым артиклем?",
+          "explanation": "Coche — мужской род, единственное число. Артикль el и прилагательное rojo согласуются с ним.",
+          "choices": [
+            "los coche rojo",
+            "el coche roja",
+            "la coche roja",
+            "el coche rojo"
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-06",
+      "title": "Местоимения и предлоги",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Вставь предлог: Voy ___ la escuela a pie.",
+          "explanation": "A обозначает направление.",
+          "choices": [
+            "a",
+            "de",
+            "con",
+            "sin"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Вставь предлог, чтобы получилось «Этот подарок для тебя»: Este regalo es ___ ti.",
+          "explanation": "Para указывает, кому предназначен подарок.",
+          "accepted": [
+            "para"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Замени los libros местоимением: Compro los libros.",
+          "explanation": "Los заменяет прямое дополнение мужского рода во множественном числе.",
+          "choices": [
+            "Las compro.",
+            "Le compro.",
+            "Lo compro.",
+            "Los compro."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Вставь форму: A mí me ___ las películas de aventuras.",
+          "explanation": "Las películas — подлежащее во множественном числе, поэтому gustan.",
+          "choices": [
+            "gustas",
+            "gusta",
+            "gusto",
+            "gustan"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "text",
+          "prompt": "Вставь возвратное местоимение: Yo ___ levanto a las siete.",
+          "explanation": "С yo возвратный глагол levantarse употребляется с me.",
+          "accepted": [
+            "me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-07",
+      "title": "Лексика и сравнение",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "match",
+          "prompt": "Сопоставь место и действие.",
+          "explanation": "Эти слова обозначают библиотеку, вокзал и пекарню.",
+          "left": [
+            "la biblioteca",
+            "la estación",
+            "la panadería"
+          ],
+          "choices": [
+            "купить хлеб",
+            "сесть на поезд",
+            "взять книгу"
+          ],
+          "matches": [
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Как сказать «Этот поезд быстрее автобуса»?",
+          "explanation": "Más … que выражает большую степень признака.",
+          "choices": [
+            "Este tren es tan rápido como el autobús.",
+            "Este tren es rápido.",
+            "Este tren es más rápido que el autobús.",
+            "Este tren es menos rápido que el autobús."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "text",
+          "prompt": "Впиши сравнительную форму bueno: Este plan es ___ que el anterior.",
+          "explanation": "У bueno нерегулярная сравнительная форма mejor.",
+          "accepted": [
+            "mejor"
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Выбери слово: Para escribir una nota necesito un ___.",
+          "explanation": "Bolígrafo — шариковая ручка.",
+          "choices": [
+            "tren",
+            "bolígrafo",
+            "sombrero",
+            "reloj"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Какое слово обозначает противоположность posible?",
+          "explanation": "Приставка im- перед p образует отрицательное значение.",
+          "choices": [
+            "posiblemente",
+            "posibilidad",
+            "imposible",
+            "posible"
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-08",
+      "title": "Чтение коротких текстов",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Lee: El museo abre a las diez. Ahora son las nueve. ¿Está abierto?",
+          "explanation": "Музей откроется в десять, то есть через час.",
+          "choices": [
+            "Sí, ya está abierto.",
+            "Sí, cierra a las nueve.",
+            "No, abre mañana.",
+            "No, abre dentro de una hora."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Lee: Ana quería ir en bicicleta, pero llovía y tomó el autobús. ¿Cómo fue Ana?",
+          "explanation": "Tomó el autobús означает, что она поехала на автобусе.",
+          "choices": [
+            "En tren.",
+            "A pie.",
+            "En bicicleta.",
+            "En autobús."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Lee: La reunión no será el lunes, sino el martes. ¿Cuándo será?",
+          "explanation": "No …, sino … противопоставляет первоначальный день правильному.",
+          "choices": [
+            "El lunes.",
+            "El martes.",
+            "El domingo.",
+            "El viernes."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Lee: La entrada es gratis para los menores de doce años. Los demás pagan cinco euros. ¿Paga un niño de diez años?",
+          "explanation": "Десять меньше двенадцати, поэтому ребёнок входит бесплатно.",
+          "choices": [
+            "Sí, paga diez euros.",
+            "No, entra gratis.",
+            "No, el museo está cerrado.",
+            "Sí, paga cinco euros."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Lee: Luis llevó agua y Sara llevó fruta. ¿Qué llevó Sara?",
+          "explanation": "Вторая часть сообщает, что Сара принесла фрукты.",
+          "choices": [
+            "Leche.",
+            "Agua.",
+            "Fruta.",
+            "Pan."
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-09",
+      "title": "Электронное письмо",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как начать дружеское письмо Анне?",
+          "explanation": "Hola, Ana подходит для дружеского обращения.",
+          "choices": [
+            "Hola, Ana:",
+            "Estimados señores:",
+            "Atentamente,",
+            "Hasta pronto,"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Как поблагодарить друга за сообщение?",
+          "explanation": "Gracias por tu mensaje означает «Спасибо за твоё сообщение».",
+          "choices": [
+            "¿Dónde vives?",
+            "No tengo tu libro.",
+            "Hasta el lunes.",
+            "Gracias por tu mensaje."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Друг спрашивает ¿Con qué frecuencia haces deporte? Какой ответ подходит?",
+          "explanation": "Dos veces por semana указывает частоту.",
+          "choices": [
+            "Juego con Pablo.",
+            "Juego en el parque.",
+            "Juego al tenis dos veces por semana.",
+            "Me gustan mis zapatillas."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как спросить, где вы встретитесь?",
+          "explanation": "Dónde спрашивает о месте.",
+          "choices": [
+            "¿Cuánto cuesta?",
+            "¿Dónde nos encontramos?",
+            "¿Por qué llamas?",
+            "¿Cuándo llegas?"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как завершить дружеское письмо от Софии?",
+          "explanation": "Un abrazo — дружеская формула прощания.",
+          "choices": [
+            "Un abrazo, Sofía",
+            "Señora Sofía:",
+            "Querida Sofía:",
+            "Hola, Sofía:"
+          ],
+          "correct": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-10",
+      "title": "Подготовка устного ответа",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как вежливо попросить повторить вопрос?",
+          "explanation": "Puede …, por favor? оформляет вежливую просьбу.",
+          "choices": [
+            "¿Puede repetir la pregunta, por favor?",
+            "Es mi pregunta.",
+            "Repito la respuesta.",
+            "No pregunte nada."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Вставь союз: Me gusta leer ___ me ayuda a relajarme.",
+          "explanation": "Porque вводит причину.",
+          "choices": [
+            "aunque",
+            "pero",
+            "porque",
+            "o"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Как начать пример?",
+          "explanation": "Por ejemplo означает «например».",
+          "choices": [
+            "Sin embargo,",
+            "Hasta luego,",
+            "Buenos días,",
+            "Por ejemplo,"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как ответить на ¿Qué haces los fines de semana?, назвав занятие?",
+          "explanation": "Первый ответ сообщает, чем говорящий занимается по субботам.",
+          "choices": [
+            "Los sábados juego al baloncesto con mis amigos.",
+            "Mañana es lunes.",
+            "Los sábados.",
+            "Soy estudiante."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как сказать «По-моему, читать полезно»?",
+          "explanation": "En mi opinión вводит личное мнение.",
+          "choices": [
+            "Leo en la biblioteca.",
+            "¿Dónde está el libro?",
+            "No puedo leer hoy.",
+            "En mi opinión, leer es útil."
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    }
+  ]
+}

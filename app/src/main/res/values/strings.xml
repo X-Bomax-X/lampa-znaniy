@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лампа знаний</string>
+    <string name="about_app">Приложение «%1$s» разработано Алексеем Хрущевым для индивидуального школьного итогового проекта.</string>
+    <string name="evening_reminder">Загляни в «%1$s» и реши несколько заданий.</string>
+</resources>

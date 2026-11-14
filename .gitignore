@@ -1,0 +1,12 @@
+.gradle/
+.kotlin/
+.android-local/
+.idea/
+local.properties
+**/build/
+*.iml
+__pycache__/
+*.apk
+*.jks
+*.keystore
+/Файлы не для приложения/

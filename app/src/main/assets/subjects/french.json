@@ -1,0 +1,750 @@
+{
+  "id": "french",
+  "title": "Французский язык",
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Настоящее время",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Впиши форму parler: Je ___ français.",
+          "explanation": "У parler в первом лице единственного числа окончание -e.",
+          "accepted": [
+            "parle"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Впиши форму aller: Nous ___ à la bibliothèque.",
+          "explanation": "Для nous глагол aller принимает форму allons.",
+          "accepted": [
+            "allons"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери форму être: Elles ___ en classe.",
+          "explanation": "С elles употребляется sont.",
+          "choices": [
+            "est",
+            "sont",
+            "êtes",
+            "sommes"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Впиши форму avoir: Tu ___ un vélo rouge.",
+          "explanation": "С tu глагол avoir принимает форму as.",
+          "accepted": [
+            "as"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери форму finir: Vous ___ à dix heures.",
+          "explanation": "Для vous форма глагола finir — finissez.",
+          "choices": [
+            "finissent",
+            "finis",
+            "finissez",
+            "finit"
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02",
+      "title": "Прошедшее время",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Впиши причастие manger: Hier, j’ai ___ une pomme.",
+          "explanation": "У правильного глагола на -er причастие оканчивается на -é.",
+          "accepted": [
+            "mangé"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Выбери форму: Léa est ___ à Paris hier.",
+          "explanation": "С être причастие согласуется с Léa в женском роде единственного числа.",
+          "choices": [
+            "arrivées",
+            "arriver",
+            "arrivé",
+            "arrivée"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "text",
+          "prompt": "Впиши причастие faire: Nous avons ___ le travail.",
+          "explanation": "Неправильное причастие глагола faire — fait.",
+          "accepted": [
+            "fait"
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Выбери форму imparfait: Quand j’étais petit, je ___ souvent au parc.",
+          "explanation": "Повторявшееся действие в прошлом можно выразить imparfait.",
+          "choices": [
+            "jouer",
+            "joue",
+            "jouais",
+            "jouons"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери правильную форму passé composé.",
+          "explanation": "Prendre использует avoir и причастие pris.",
+          "choices": [
+            "Ils ont prendre le train.",
+            "Ils ont pris le train.",
+            "Ils sont pris le train.",
+            "Ils ont prend le train."
+          ],
+          "correct": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03",
+      "title": "Будущее и отрицание",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как правильно выразить ближайшее будущее?",
+          "explanation": "Futur proche строится из формы aller и инфинитива.",
+          "choices": [
+            "Je vais lis ce livre.",
+            "Je vais lu ce livre.",
+            "Je va lire ce livre.",
+            "Je vais lire ce livre."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Впиши futur simple глагола être: Demain, nous ___ prêts.",
+          "explanation": "Будущая основа être — ser-, окончание nous — -ons.",
+          "accepted": [
+            "serons"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери обычное письменное отрицание.",
+          "explanation": "Ne и pas окружают спрягаемый глагол.",
+          "choices": [
+            "Je pas comprends.",
+            "Je ne pas comprends.",
+            "Je ne comprends pas.",
+            "Je comprends ne pas."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как сказать «Я никогда не пью кофе»?",
+          "explanation": "Ne … jamais означает «никогда».",
+          "choices": [
+            "Je bois toujours du café.",
+            "Je ne bois plus de café.",
+            "Je ne bois pas encore de café.",
+            "Je ne bois jamais de café."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери правильный вопрос с est-ce que.",
+          "explanation": "После est-ce que сохраняется прямой порядок слов tu viens.",
+          "choices": [
+            "Est-ce que tu viens demain ?",
+            "Tu est-ce que viens demain ?",
+            "Est que tu viens demain ?",
+            "Est-ce que viens tu demain ?"
+          ],
+          "correct": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04",
+      "title": "Артикли и род",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Выбери определённый артикль: ___ école est grande.",
+          "explanation": "Le и la перед гласным сокращаются до l’.",
+          "choices": [
+            "Les",
+            "La",
+            "L’",
+            "Le"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Вставь неопределённый артикль: J’ai acheté ___ cahier.",
+          "explanation": "Cahier — существительное мужского рода в единственном числе.",
+          "accepted": [
+            "un"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери частичный артикль: Elle boit ___ lait.",
+          "explanation": "С неисчисляемым lait мужского рода в таком контексте нужен du.",
+          "choices": [
+            "au",
+            "des",
+            "du",
+            "de la"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Выбери правильную форму прилагательного: une robe ___.",
+          "explanation": "Robe — женский род единственного числа. Форма прилагательного verte.",
+          "choices": [
+            "verts",
+            "vertes",
+            "verte",
+            "vert"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "text",
+          "prompt": "Вставь определённый артикль: ___ enfants jouent dans le jardin.",
+          "explanation": "Во множественном числе используется определённый артикль les.",
+          "accepted": [
+            "les"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05",
+      "title": "Местоимения и предлоги",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Вставь форму для города: Il habite ___ Lyon.",
+          "explanation": "Перед названием города в этом значении используется à.",
+          "choices": [
+            "aux",
+            "en",
+            "à",
+            "au"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Вставь предлог, если она едет во Францию: Elle part ___ France demain.",
+          "explanation": "С названием France для направления употребляется en.",
+          "accepted": [
+            "en"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Как правильно сказать «Я иду в кино»?",
+          "explanation": "À + le сливаются в au.",
+          "choices": [
+            "Je vais au cinéma.",
+            "Je vais du cinéma.",
+            "Je vais en cinéma.",
+            "Je vais à le cinéma."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Замени le livre местоимением: Je lis le livre.",
+          "explanation": "Le заменяет прямое дополнение мужского рода единственного числа.",
+          "choices": [
+            "Je la lis.",
+            "Je le lis.",
+            "Je lui lis.",
+            "J’y lis."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "text",
+          "prompt": "Вставь притяжательное слово: C’est le sac de Marie. C’est ___ sac.",
+          "explanation": "Притяжательное определение согласуется с sac, существительным мужского рода.",
+          "accepted": [
+            "son"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-06",
+      "title": "Сравнение и количество",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как сказать «Этот поезд быстрее автобуса»?",
+          "explanation": "Plus … que выражает большую степень признака.",
+          "choices": [
+            "Ce train est aussi rapide que le bus.",
+            "Ce train est plus rapide que le bus.",
+            "Ce train est très rapide.",
+            "Ce train est moins rapide que le bus."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Допиши сравнительную форму bon: Ce résultat est ___ que le premier.",
+          "explanation": "Сравнительная форма прилагательного bon в мужском роде — meilleur.",
+          "accepted": [
+            "meilleur"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери продолжение: Il y a beaucoup ___ livres ici.",
+          "explanation": "После beaucoup обычно используется de.",
+          "choices": [
+            "du",
+            "les",
+            "de",
+            "des"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как сказать «У меня три брата»?",
+          "explanation": "J’ai означает «у меня есть», а trois обозначает количество.",
+          "choices": [
+            "J’ai frère trois.",
+            "Je suis trois frères.",
+            "J’ai trois frères.",
+            "J’ai troisième frère."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как по-французски «несколько друзей»?",
+          "explanation": "Quelques употребляется с множественным числом и обозначает неопределённое небольшое количество.",
+          "choices": [
+            "chaque ami",
+            "quelques amis",
+            "un seul ami",
+            "aucun ami"
+          ],
+          "correct": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-07",
+      "title": "Лексика и словообразование",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "match",
+          "prompt": "Сопоставь место и действие.",
+          "explanation": "Boulangerie — пекарня, gare — вокзал, piscine — бассейн.",
+          "left": [
+            "une boulangerie",
+            "une gare",
+            "une piscine"
+          ],
+          "choices": [
+            "купить хлеб",
+            "плавать",
+            "сесть на поезд"
+          ],
+          "matches": [
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Образуй наречие от rapide: Il répond ___.",
+          "explanation": "К форме rapide добавляется суффикс -ment.",
+          "accepted": [
+            "rapidement"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Какое слово означает «счастливый»?",
+          "explanation": "Heureux означает «счастливый».",
+          "choices": [
+            "triste",
+            "heureux",
+            "malade",
+            "fatigué"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Какое слово означает «ученица»?",
+          "explanation": "Une élève обозначает учащуюся.",
+          "choices": [
+            "une classe",
+            "une élève",
+            "une leçon",
+            "une école"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Подбери слово: J’écris avec un ___.",
+          "explanation": "Stylo — ручка, которой пишут.",
+          "choices": [
+            "stylo",
+            "bateau",
+            "chapeau",
+            "vélo"
+          ],
+          "correct": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-08",
+      "title": "Чтение коротких текстов",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Lis : Le musée ferme à six heures. Il est cinq heures maintenant. Le musée est-il encore ouvert ?",
+          "explanation": "Музей закрывается в шесть, сейчас пять. Он ещё открыт.",
+          "choices": [
+            "Il ferme demain.",
+            "Non, il est fermé.",
+            "Oui, il ferme dans une heure.",
+            "Il ouvre dans deux heures."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Lis : Nina a oublié son parapluie, mais son amie lui en a prêté un. Qui lui a prêté le parapluie ?",
+          "explanation": "Son amie — подлежащее фразы о том, кто одолжил зонт.",
+          "choices": [
+            "Son professeur.",
+            "Son frère.",
+            "Personne.",
+            "Son amie."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Lis : Le match prévu samedi aura lieu dimanche à cause de la pluie. Quand est le match ?",
+          "explanation": "Aura lieu dimanche означает «состоится в воскресенье».",
+          "choices": [
+            "Lundi.",
+            "Samedi.",
+            "Dimanche.",
+            "Vendredi."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Lis : L’entrée est gratuite pour les enfants. Les adultes paient huit euros. Qui paie ?",
+          "explanation": "Последнее предложение говорит, что взрослые платят восемь евро.",
+          "choices": [
+            "Personne.",
+            "Les enfants.",
+            "Les adultes.",
+            "Tout le monde."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Lis : Paul prend le métro pour aller à l’école parce que son vélo est cassé. Pourquoi prend-il le métro ?",
+          "explanation": "После parce que названа причина: велосипед сломан.",
+          "choices": [
+            "Il habite à l’école.",
+            "Le métro est fermé.",
+            "Il pleut.",
+            "Son vélo est cassé."
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-09",
+      "title": "Электронное письмо",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как начать дружеское письмо Луи?",
+          "explanation": "Salut Louis — неформальное обращение в начале письма.",
+          "choices": [
+            "À bientôt !",
+            "Salut Louis !",
+            "Madame, Monsieur,",
+            "Cordialement,"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Как поблагодарить друга за сообщение?",
+          "explanation": "Merci pour ton message означает «Спасибо за твоё сообщение».",
+          "choices": [
+            "Je ne sais pas.",
+            "Où est ton sac ?",
+            "Merci pour ton message !",
+            "Il faut partir."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Друг спрашивает Quand viens-tu ? Как ответить по существу?",
+          "explanation": "Samedi matin сообщает время приезда.",
+          "choices": [
+            "Je viens à Paris.",
+            "Je viens en train.",
+            "Je viens samedi matin.",
+            "Je viens avec Léa."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как спросить, где встретиться?",
+          "explanation": "Où спрашивает о месте, se retrouver означает встретиться.",
+          "choices": [
+            "Combien ça coûte ?",
+            "Pourquoi est-ce qu’on part ?",
+            "Où est-ce qu’on se retrouve ?",
+            "Comment vas-tu ?"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как дружески закончить письмо от Лины?",
+          "explanation": "À bientôt — формула прощания «До скорого».",
+          "choices": [
+            "À bientôt, Lina",
+            "Bonjour Lina",
+            "Chère Lina",
+            "Madame Lina"
+          ],
+          "correct": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-10",
+      "title": "Подготовка устного ответа",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как вежливо попросить повторить вопрос?",
+          "explanation": "Pouvez-vous …, s’il vous plaît ? — вежливая просьба.",
+          "choices": [
+            "Pouvez-vous répéter la question, s’il vous plaît ?",
+            "Ne posez pas de question.",
+            "Vous avez répondu.",
+            "J’ai une question."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Какой союз вводит причину: J’aime le sport ___ il me détend.",
+          "explanation": "Parce que означает «потому что» и сокращается до parce qu’ перед il.",
+          "choices": [
+            "donc",
+            "parce qu’",
+            "ou",
+            "mais"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Как начать пример?",
+          "explanation": "Par exemple означает «например».",
+          "choices": [
+            "À demain,",
+            "Par exemple,",
+            "Tout à fait,",
+            "Au revoir,"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как ответить на Quel est ton loisir préféré et pourquoi ?",
+          "explanation": "Первый ответ называет любимое занятие и объясняет причину.",
+          "choices": [
+            "C’est mardi.",
+            "J’habite près du parc.",
+            "J’aime dessiner parce que je peux inventer des personnages.",
+            "Oui, je viens."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как начать высказывание «По-моему, читать полезно»?",
+          "explanation": "À mon avis вводит мнение.",
+          "choices": [
+            "Je ne trouve pas mon livre.",
+            "À quelle heure est le cours ?",
+            "À mon avis, lire est utile.",
+            "Le magasin est fermé."
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}

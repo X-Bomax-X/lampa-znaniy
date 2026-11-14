@@ -1,0 +1,61 @@
+# Немецкий язык
+## Настоящее время
+text|Впиши форму глагола: Ich ___ (wohnen) in Berlin.|wohne|У глагола wohnen в первом лице единственного числа окончание -e.
+text|Впиши форму: Du ___ (sprechen) sehr gut Deutsch.|sprichst|У sprechen во втором лице единственного числа e меняется на i, добавляется -st.
+single|Выбери форму: Er ___ jeden Morgen mit dem Bus.|*fährt;fahren;fahrt;fährst|Для er глагол fahren принимает форму fährt.
+text|Впиши форму sein: Wir ___ heute zu Hause.|sind|С местоимением wir употребляется sind.
+single|Выбери форму haben: Ihr ___ heute zwei Stunden Deutsch.|*habt;haben;hat;hast|У глагола haben форма второго лица множественного числа — habt.
+## Прошедшее время
+single|Выбери вспомогательный глагол: Gestern ___ ich nach Köln gefahren.|*bin;habe;hat;warst|У fahren при перемещении в Perfekt употребляется sein.
+text|Впиши причастие: Wir haben gestern Fußball ___ (spielen).|gespielt|Регулярное причастие spielen имеет форму gespielt.
+single|Вставь правильную форму: Meine Schwester hat das Buch ___.|*gelesen;geleset;lesen;liest|У lesen причастие Partizip II имеет форму gelesen.
+text|Впиши Präteritum глагола sein: Das Wetter ___ schön.|war|С das Wetter употребляется форма третьего лица единственного числа war.
+single|Выбери верное предложение.|*Am Samstag habe ich meine Oma besucht.;Am Samstag ich habe meine Oma besucht.;Am Samstag ich besucht habe meine Oma.;Am Samstag habe besucht ich meine Oma.|В повествовательном предложении habe стоит на втором месте, а причастие besucht — в конце.
+## Порядок слов
+single|Выбери правильный порядок слов.|*Heute lerne ich Deutsch.;Heute ich lerne Deutsch.;Heute Deutsch ich lerne.;Lerne heute Deutsch ich.|Если Heute стоит первым, спрягаемый глагол lerne следует сразу за ним.
+single|В каком вопросе глагол стоит на нужном месте?|*Kommst du morgen?;Du morgen kommst?;Morgen du kommst?;Kommst morgen du?|В общем вопросе спрягаемый глагол стоит на первом месте.
+single|Заверши придаточное: Ich bleibe zu Hause, weil ___.|*ich krank bin;bin ich krank;ich bin krank;krank bin ich|После weil спрягаемый глагол ставится в конец придаточного.
+single|Как сказать «Мы встаём в семь»?|*Wir stehen um sieben Uhr auf.;Wir aufstehen um sieben Uhr.;Wir auf stehen um sieben Uhr.;Wir um sieben Uhr stehen auf.|Отделяемая приставка auf в простом предложении стоит в конце.
+single|Выбери грамматически верное предложение с модальным глаголом.|*Ich kann gut schwimmen.;Ich kann schwimme gut.;Ich schwimmen kann gut.;Ich gut kann schwimme.|После kann смысловой глагол schwimmen употребляется в инфинитиве в конце.
+## Артикли и падежи
+single|Какой определённый артикль нужен: ___ Buch liegt auf dem Tisch?|*Das;Der;Die;Den|Buch — средний род, а подлежащему нужен именительный падеж: das Buch.
+text|Вставь определённый артикль: Ich sehe ___ Hund.|den|Hund мужского рода. В Akkusativ der меняется на den.
+text|Вставь определённый артикль: Ich helfe ___ Kind.|dem|Helfen требует Dativ. Для среднего рода артикль dem.
+single|Выбери неопределённый артикль: Ich kaufe ___ Lampe.|*eine;einen;ein;einem|Lampe женского рода, в Akkusativ неопределённый артикль — eine.
+single|Какое местоимение заменяет meine Eltern в роли подлежащего?|*sie;er;es;ihn|Eltern — множественное число. Местоимение подлежащего — sie.
+## Предлоги
+single|Выбери предлог: Der Film beginnt ___ acht Uhr.|*um;am;im;seit|Точное время на часах употребляется с um.
+text|Вставь сокращённый предлог с артиклем: Wir gehen ___ Montag ins Kino.|am|Дни недели употребляются с am, сокращением an dem.
+single|Вставь предлог со значением «на автобусе»: Ich fahre ___ dem Bus.|*mit;für;durch;ohne|Mit обозначает способ передвижения и требует Dativ.
+text|Вставь предлог: Das Geschenk ist ___ dich.|für|Für означает «для» и требует Akkusativ.
+single|Где правильная форма: Das Bild hängt ___ Wand.|*an der;an die;auf dem;aus die|Для положения без перемещения an требует Dativ: an der Wand.
+## Сравнение и множественное число
+text|Впиши сравнительную форму: Das ist ___ (gut) als gestern.|besser|Gut имеет нерегулярную сравнительную форму besser.
+single|Вставь союз: Mia ist größer ___ Leo.|*als;wie;und;weil|При сравнительной степени для различия употребляется als.
+single|Вставь слово: Mia ist genauso groß ___ Lea.|*wie;als;denn;oder|После genauso для равенства используется wie.
+text|Напиши форму множественного числа существительного Buch без артикля.|Bücher|В форме Bücher добавляется -er и появляется умлаут.
+single|Выбери превосходную форму: Von allen läuft Tom ___.|*am schnellsten;schneller;am schneller;am schnell|Для наречия в превосходной степени подходит am schnellsten.
+## Слова и словообразование
+match|Сопоставь слова по значению.|die Haltestelle=остановка;die Fahrkarte=проездной билет;der Fahrplan=расписание движения|Все три слова относятся к транспорту, но называют место, билет и расписание соответственно.
+text|Впиши слово со значением «несчастливый»: Er war gestern ___ (glücklich).|unglücklich|Приставка un- образует противоположное значение.
+single|Какое слово означает «человек, который преподаёт», в мужском роде?|*der Lehrer;der Schüler;das Lehrbuch;die Schule|Lehrer образовано от lehren и обозначает учителя.
+single|Какое сложное слово означает «школьный двор»?|*der Schulhof;das Schulbuch;das Schuljahr;die Schultasche|Schulhof объединяет Schule и Hof.
+single|Какое слово подходит: Vor der Reise packe ich meinen ___.|*Koffer;Unterricht;Wecker;Bahnhof|Koffer — чемодан, в него складывают вещи перед поездкой.
+## Чтение коротких текстов
+single|Lies: Die Bibliothek ist am Montag geschlossen. Am Dienstag öffnet sie um zehn. Wann kann man am Dienstag hinein?|*Ab zehn Uhr.;Ab acht Uhr.;Erst am Mittwoch.;Gar nicht.|Во вторник библиотека открывается в десять.
+single|Lies: Lina wollte radeln, aber es regnete. Deshalb nahm sie den Bus. Wie fuhr Lina?|*Mit dem Bus.;Mit dem Fahrrad.;Mit dem Zug.;Zu Fuß.|Из-за дождя Лина поехала на автобусе.
+single|Lies: Ben bringt Brot. Mia bringt Saft. Was bringt Mia?|*Saft.;Brot.;Wasser.;Obst.|Во втором предложении сказано, что Мия принесёт сок.
+single|Lies: Unser Treffen findet nicht im Park, sondern im Café statt. Wo treffen wir uns?|*Im Café.;Im Park.;Im Kino.;Zu Hause.|Nicht …, sondern … исправляет место встречи: в кафе.
+single|Lies: Der Eintritt für Kinder ist frei. Erwachsene zahlen fünf Euro. Wer bezahlt fünf Euro?|*Erwachsene.;Alle Kinder.;Niemand.;Nur Schüler.|Билет для детей бесплатный, взрослые платят пять евро.
+## Электронное письмо
+single|Как начать дружеское письмо Лене?|*Liebe Lena,;Sehr geehrte Damen und Herren,;Mit freundlichen Grüßen,;Bis bald,|Liebe Lena — личное обращение в дружеском письме.
+single|Как поблагодарить друга за письмо?|*Danke für deine Nachricht!;Ich habe keine Zeit.;Wo ist deine Tasche?;Geh bitte nach Hause!|Danke für deine Nachricht означает «Спасибо за твоё сообщение».
+single|Друг спрашивает: Wie oft liest du? Какой ответ сообщает частоту?|*Ich lese jeden Abend.;Ich lese im Bett.;Ich lese Krimis.;Ich lese mit meiner Schwester.|Jeden Abend означает «каждый вечер».
+single|Как спросить, во сколько начинается урок?|*Um wie viel Uhr beginnt der Unterricht?;Wo ist deine Schule?;Wie heißt dein Lehrer?;Wie viele Bücher hast du?|Um wie viel Uhr спрашивает точное время.
+single|Как дружески завершить письмо, подписанное Anna?|*Liebe Grüße, Anna;Liebe Anna,;Sehr geehrte Anna,;Hallo Anna,|Liebe Grüße — дружеская формула в конце письма.
+## Подготовка устного ответа
+single|Как вежливо попросить собеседника повторить вопрос?|*Können Sie die Frage bitte wiederholen?;Sagen Sie nichts.;Ich frage dich morgen.;Das ist meine Frage.|Können Sie … bitte? оформляет вежливую просьбу.
+single|Как связать ответ с причиной: Ich mag den Sommer, ___ ich dann schwimmen kann.|*weil;aber;oder;und dann|Weil вводит причину. Kann стоит в конце придаточного.
+single|Какая фраза вводит пример?|*Zum Beispiel;Auf Wiedersehen;Guten Morgen;Bis morgen|Zum Beispiel означает «например».
+single|Как ответить на Was machst du am Wochenende?, сообщив занятие?|*Ich spiele am Samstag Fußball.;Am Wochenende.;Ich bin vierzehn.;Heute ist Montag.|Ответ называет, чем человек будет заниматься в субботу.
+single|Как сказать «По моему мнению, читать полезно»?|*Meiner Meinung nach ist Lesen nützlich.;Ich bin heute zu Hause.;Wie viel kostet das Buch?;Das Buch liegt hier.|Meiner Meinung nach вводит личное мнение.

@@ -1,0 +1,61 @@
+# Английский язык
+## Настоящее время
+text|Поставь глагол в нужную форму: Mia usually ___ (walk) to school.|walks|Usually указывает на привычку. В Present Simple после Mia нужно окончание -s.
+single|Выбери правильную форму: Look! The birds ___ over the lake.|*are flying;fly;flew;will fly|Look! указывает на действие, которое происходит сейчас. С birds используется are flying.
+text|Вставь вспомогательный глагол: ___ your friends play volleyball every week?|do|В вопросе Present Simple с your friends нужен do.
+single|Вставь нужную форму: Sam ___ like noisy places.|*doesn't;don't;isn't;aren't|В отрицании Present Simple с Sam используется doesn't перед начальной формой глагола.
+single|Выбери форму: Please be quiet. I ___ to an interview now.|*am listening;listen;listened;have listened|Now и просьба соблюдать тишину показывают действие в момент речи.
+## Прошедшее время
+text|Поставь глагол в Past Simple: We ___ (see) a fox yesterday.|saw|See — неправильный глагол. Форма прошедшего времени — saw.
+single|Выбери форму: At seven yesterday I ___ dinner when the lights went out.|*was cooking;cooked every day;am cooking;will cook|Продолжительное действие в прошлом служит фоном для короткого события.
+text|Вставь вспомогательный глагол: ___ you call me last night?|did|Вопрос о завершённом прошлом строится с did и начальной формой call.
+single|Выбери правильное предложение.|*He didn't bring his bag.;He didn't brought his bag.;He not bring his bag.;He wasn't bring his bag.|После didn't используется начальная форма bring.
+text|Вставь форму глагола: Ella ___ (buy) a new pen two days ago.|bought|У глагола buy форма Past Simple — bought.
+## Будущее и модальные глаголы
+single|Вставь форму для обещания: I promise I ___ help you tomorrow.|*will;was;did;have|Will подходит для обещания о будущем.
+single|Вставь модальный глагол для совета: You look tired. You ___ get some rest.|*should;mustn't;can't;may not|Should выражает совет.
+single|Как закончить правило запрета: Visitors ___ touch the paintings.|*mustn't;don't have to;should;can|Mustn't обозначает запрет, а don't have to — отсутствие обязанности.
+text|Вставь модальный глагол, означающий «уметь»: My brother ___ swim very well.|can|Can обозначает умение и употребляется с начальной формой swim.
+match|Сопоставь фразу и смысл.|You must leave.=обязанность;You may leave.=разрешение;You should leave.=совет|Must выражает обязанность, may — разрешение, should — рекомендацию.
+## Сравнение и количество
+text|Допиши сравнительную форму: This bag is ___ (heavy) than mine.|heavier|Перед -er конечная y после согласной меняется на i.
+single|Выбери правильную форму: This is ___ book in the series.|*the most interesting;more interesting;the interestingest;most interesting than|Для многосложного прилагательного превосходная степень — the most interesting.
+single|Вставь слово: How ___ water is in the bottle?|*much;many;few;several|Water в этом контексте неисчисляемое, поэтому подходит how much.
+single|Вставь слово: There are only ___ apples left, but enough for us.|*a few;much;a little;any much|Apples — исчисляемое существительное во множественном числе. A few означает «несколько».
+text|Напиши сравнительную форму good.|better|Good имеет нерегулярную сравнительную форму better.
+## Артикли и местоимения
+single|Выбери артикль: It took us ___ hour to get there.|*an;a;the only;some|В hour буква h не произносится. Перед гласным звуком нужен an.
+single|Вставь артикли: I found ___ key. ___ key was under the chair.|*a / The;the / A;an / The;a / An|При первом упоминании нужен a, затем известный ключ обозначается через the.
+single|Вставь местоимение: This notebook belongs to Anna. It is ___.|*hers;her;she;their|Hers самостоятельно обозначает принадлежность.
+text|Вставь возвратное местоимение: Leo made the kite by ___.|himself|By himself означает «самостоятельно». Для Leo нужна форма himself.
+single|Выбери местоимение: Dad gave the tickets to Max and ___.|*me;I;my;mine|После to нужна объектная форма me.
+## Предлоги и сочетания
+text|Вставь предлог: Our class begins ___ nine o'clock.|at|С точным временем употребляется at.
+text|Вставь предлог: We have a meeting ___ Monday.|on|С днями недели употребляется on.
+single|Выбери предлог: She is interested ___ astronomy.|*in;on;at;for|Устойчивое сочетание — be interested in.
+single|Выбери глагол: Please ___ a photo of the bridge.|*take;do;make up;put|Сочетание take a photo означает «сделать фотографию».
+match|Соедини выражения с переводами.|look after=присматривать за;look for=искать;look at=смотреть на|Частица или предлог меняет значение сочетания с look.
+## Словообразование
+text|Образуй существительное от teach: My aunt is a maths ___.|teacher|Суффикс -er образует название человека по виду деятельности.
+text|Образуй наречие от careful: He checked the answers ___.|carefully|Наречие carefully описывает, как он проверил ответы.
+text|Образуй слово со значением «необычный»: It was an ___ (usual) day.|unusual|Приставка un- даёт противоположное значение.
+single|Выбери правильное слово: The new dictionary is very ___.|*useful;usefully;usefulness;use|После is very здесь нужно прилагательное useful.
+text|Образуй существительное от happy: Her letter was full of ___.|happiness|Happiness образуется с суффиксом -ness и заменой y на i.
+## Чтение коротких текстов
+single|Read: The café opens at ten on weekdays but at nine on Saturday. When does it open on Saturday?|*At nine.;At ten.;At eleven.;It is closed.|Вторая часть предложения называет отдельное время для субботы.
+single|Read: Nora took an umbrella, although the sky was clear. What was the weather like when she left?|*The sky was clear.;It was snowing.;It was already raining.;There was a storm.|The sky was clear описывает небо. Зонт она взяла, несмотря на это.
+single|Read: Omar wanted to go by bus, but he walked because the bus stop was closed. Why did he walk?|*The bus stop was closed.;He missed his train.;He forgot his bag.;He dislikes buses.|После because дана причина прогулки.
+single|Read: Bring a bottle of water. You can leave your lunch at home because food is provided. What must you bring?|*Water.;Lunch.;A plate.;A map.|Первая фраза просит принести бутылку воды, а еду предоставят.
+single|Read: The library moved the reading club from Tuesday to Friday. On which day is the club now?|*Friday;Tuesday;Monday;Sunday|From Tuesday to Friday означает перенос со вторника на пятницу.
+## Электронное письмо
+single|Как лучше начать неформальное письмо другу по имени Alex?|*Hi Alex,;Dear Sir or Madam,;To the manager,;Yours sincerely,|Hi Alex подходит для дружеского обращения.
+single|Как в письме естественно поблагодарить за сообщение?|*Thanks for your message!;I wait your message.;You must send a message.;No message today.|Thanks for your message — обычная дружеская благодарность.
+single|Друг спросил: How often do you exercise? Какой ответ подходит?|*I go running twice a week.;I run in the park.;I exercise with Ben.;I like running shoes.|Twice a week отвечает на вопрос о частоте.
+single|Какой вопрос уточняет место встречи?|*Where shall we meet?;When shall we meet?;What will you bring?;How are you?|Where спрашивает о месте.
+single|Как завершить дружеское письмо, подписанное Emma?|*Best wishes, Emma;Dear Emma,;Dear Sir, Emma;Hello, Emma|Best wishes — подходящая дружеская формула прощания.
+## Подготовка устного ответа
+single|Как полностью ответить на вопрос What is your favourite season and why?|*I like autumn because the weather is cool and the parks are colourful.;Autumn.;It is September.;I have four seasons.|Первый ответ называет время года и объясняет причину.
+single|Как связать причину с высказыванием: I enjoy reading ___ it helps me relax.|*because;but;although;until|Because вводит причину.
+single|Какая фраза естественно вводит пример?|*For example,;In spite,;Since yesterday,;On Monday only,|For example используется, чтобы привести пример.
+single|Как вежливо попросить повторить вопрос?|*Could you repeat the question, please?;Do not ask.;You repeat now.;What you say again?|Could you …, please? оформляет вежливую просьбу.
+single|Выбери краткий связный рассказ о планах на выходные.|*On Saturday I will visit my grandparents. On Sunday I hope to finish my project.;My weekend. A table. Twenty.;Yesterday was Friday. I was at school.;Yes, because I do.|В первом ответе есть планы на оба дня и указано время.

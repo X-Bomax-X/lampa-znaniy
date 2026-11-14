@@ -1,0 +1,738 @@
+{
+  "id": "english",
+  "title": "Английский язык",
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Настоящее время",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Поставь глагол в нужную форму: Mia usually ___ (walk) to school.",
+          "explanation": "Usually указывает на привычку. В Present Simple после Mia нужно окончание -s.",
+          "accepted": [
+            "walks"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Выбери правильную форму: Look! The birds ___ over the lake.",
+          "explanation": "Look! указывает на действие, которое происходит сейчас. С birds используется are flying.",
+          "choices": [
+            "are flying",
+            "will fly",
+            "fly",
+            "flew"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "text",
+          "prompt": "Вставь вспомогательный глагол: ___ your friends play volleyball every week?",
+          "explanation": "В вопросе Present Simple с your friends нужен do.",
+          "accepted": [
+            "do"
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Вставь нужную форму: Sam ___ like noisy places.",
+          "explanation": "В отрицании Present Simple с Sam используется doesn't перед начальной формой глагола.",
+          "choices": [
+            "aren't",
+            "doesn't",
+            "don't",
+            "isn't"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери форму: Please be quiet. I ___ to an interview now.",
+          "explanation": "Now и просьба соблюдать тишину показывают действие в момент речи.",
+          "choices": [
+            "listen",
+            "listened",
+            "am listening",
+            "have listened"
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02",
+      "title": "Прошедшее время",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Поставь глагол в Past Simple: We ___ (see) a fox yesterday.",
+          "explanation": "See — неправильный глагол. Форма прошедшего времени — saw.",
+          "accepted": [
+            "saw"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Выбери форму: At seven yesterday I ___ dinner when the lights went out.",
+          "explanation": "Продолжительное действие в прошлом служит фоном для короткого события.",
+          "choices": [
+            "will cook",
+            "am cooking",
+            "cooked every day",
+            "was cooking"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "text",
+          "prompt": "Вставь вспомогательный глагол: ___ you call me last night?",
+          "explanation": "Вопрос о завершённом прошлом строится с did и начальной формой call.",
+          "accepted": [
+            "did"
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Выбери правильное предложение.",
+          "explanation": "После didn't используется начальная форма bring.",
+          "choices": [
+            "He didn't bring his bag.",
+            "He wasn't bring his bag.",
+            "He not bring his bag.",
+            "He didn't brought his bag."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "text",
+          "prompt": "Вставь форму глагола: Ella ___ (buy) a new pen two days ago.",
+          "explanation": "У глагола buy форма Past Simple — bought.",
+          "accepted": [
+            "bought"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03",
+      "title": "Будущее и модальные глаголы",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Вставь форму для обещания: I promise I ___ help you tomorrow.",
+          "explanation": "Will подходит для обещания о будущем.",
+          "choices": [
+            "have",
+            "will",
+            "was",
+            "did"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Вставь модальный глагол для совета: You look tired. You ___ get some rest.",
+          "explanation": "Should выражает совет.",
+          "choices": [
+            "mustn't",
+            "should",
+            "may not",
+            "can't"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Как закончить правило запрета: Visitors ___ touch the paintings.",
+          "explanation": "Mustn't обозначает запрет, а don't have to — отсутствие обязанности.",
+          "choices": [
+            "can",
+            "don't have to",
+            "mustn't",
+            "should"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Вставь модальный глагол, означающий «уметь»: My brother ___ swim very well.",
+          "explanation": "Can обозначает умение и употребляется с начальной формой swim.",
+          "accepted": [
+            "can"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "match",
+          "prompt": "Сопоставь фразу и смысл.",
+          "explanation": "Must выражает обязанность, may — разрешение, should — рекомендацию.",
+          "left": [
+            "You must leave.",
+            "You may leave.",
+            "You should leave."
+          ],
+          "choices": [
+            "совет",
+            "обязанность",
+            "разрешение"
+          ],
+          "matches": [
+            1,
+            2,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04",
+      "title": "Сравнение и количество",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Допиши сравнительную форму: This bag is ___ (heavy) than mine.",
+          "explanation": "Перед -er конечная y после согласной меняется на i.",
+          "accepted": [
+            "heavier"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Выбери правильную форму: This is ___ book in the series.",
+          "explanation": "Для многосложного прилагательного превосходная степень — the most interesting.",
+          "choices": [
+            "the most interesting",
+            "most interesting than",
+            "the interestingest",
+            "more interesting"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Вставь слово: How ___ water is in the bottle?",
+          "explanation": "Water в этом контексте неисчисляемое, поэтому подходит how much.",
+          "choices": [
+            "several",
+            "many",
+            "much",
+            "few"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Вставь слово: There are only ___ apples left, but enough for us.",
+          "explanation": "Apples — исчисляемое существительное во множественном числе. A few означает «несколько».",
+          "choices": [
+            "a little",
+            "a few",
+            "much",
+            "any much"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "text",
+          "prompt": "Напиши сравнительную форму good.",
+          "explanation": "Good имеет нерегулярную сравнительную форму better.",
+          "accepted": [
+            "better"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05",
+      "title": "Артикли и местоимения",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Выбери артикль: It took us ___ hour to get there.",
+          "explanation": "В hour буква h не произносится. Перед гласным звуком нужен an.",
+          "choices": [
+            "some",
+            "the only",
+            "a",
+            "an"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Вставь артикли: I found ___ key. ___ key was under the chair.",
+          "explanation": "При первом упоминании нужен a, затем известный ключ обозначается через the.",
+          "choices": [
+            "an / The",
+            "the / A",
+            "a / The",
+            "a / An"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Вставь местоимение: This notebook belongs to Anna. It is ___.",
+          "explanation": "Hers самостоятельно обозначает принадлежность.",
+          "choices": [
+            "their",
+            "hers",
+            "she",
+            "her"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Вставь возвратное местоимение: Leo made the kite by ___.",
+          "explanation": "By himself означает «самостоятельно». Для Leo нужна форма himself.",
+          "accepted": [
+            "himself"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери местоимение: Dad gave the tickets to Max and ___.",
+          "explanation": "После to нужна объектная форма me.",
+          "choices": [
+            "I",
+            "mine",
+            "me",
+            "my"
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-06",
+      "title": "Предлоги и сочетания",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Вставь предлог: Our class begins ___ nine o'clock.",
+          "explanation": "С точным временем употребляется at.",
+          "accepted": [
+            "at"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Вставь предлог: We have a meeting ___ Monday.",
+          "explanation": "С днями недели употребляется on.",
+          "accepted": [
+            "on"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери предлог: She is interested ___ astronomy.",
+          "explanation": "Устойчивое сочетание — be interested in.",
+          "choices": [
+            "in",
+            "for",
+            "on",
+            "at"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Выбери глагол: Please ___ a photo of the bridge.",
+          "explanation": "Сочетание take a photo означает «сделать фотографию».",
+          "choices": [
+            "take",
+            "do",
+            "make up",
+            "put"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "match",
+          "prompt": "Соедини выражения с переводами.",
+          "explanation": "Частица или предлог меняет значение сочетания с look.",
+          "left": [
+            "look after",
+            "look for",
+            "look at"
+          ],
+          "choices": [
+            "искать",
+            "смотреть на",
+            "присматривать за"
+          ],
+          "matches": [
+            2,
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-07",
+      "title": "Словообразование",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Образуй существительное от teach: My aunt is a maths ___.",
+          "explanation": "Суффикс -er образует название человека по виду деятельности.",
+          "accepted": [
+            "teacher"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Образуй наречие от careful: He checked the answers ___.",
+          "explanation": "Наречие carefully описывает, как он проверил ответы.",
+          "accepted": [
+            "carefully"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "text",
+          "prompt": "Образуй слово со значением «необычный»: It was an ___ (usual) day.",
+          "explanation": "Приставка un- даёт противоположное значение.",
+          "accepted": [
+            "unusual"
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Выбери правильное слово: The new dictionary is very ___.",
+          "explanation": "После is very здесь нужно прилагательное useful.",
+          "choices": [
+            "use",
+            "usefully",
+            "usefulness",
+            "useful"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "text",
+          "prompt": "Образуй существительное от happy: Her letter was full of ___.",
+          "explanation": "Happiness образуется с суффиксом -ness и заменой y на i.",
+          "accepted": [
+            "happiness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-08",
+      "title": "Чтение коротких текстов",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Read: The café opens at ten on weekdays but at nine on Saturday. When does it open on Saturday?",
+          "explanation": "Вторая часть предложения называет отдельное время для субботы.",
+          "choices": [
+            "At eleven.",
+            "At nine.",
+            "At ten.",
+            "It is closed."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Read: Nora took an umbrella, although the sky was clear. What was the weather like when she left?",
+          "explanation": "The sky was clear описывает небо. Зонт она взяла, несмотря на это.",
+          "choices": [
+            "There was a storm.",
+            "It was already raining.",
+            "It was snowing.",
+            "The sky was clear."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Read: Omar wanted to go by bus, but he walked because the bus stop was closed. Why did he walk?",
+          "explanation": "После because дана причина прогулки.",
+          "choices": [
+            "He dislikes buses.",
+            "The bus stop was closed.",
+            "He missed his train.",
+            "He forgot his bag."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Read: Bring a bottle of water. You can leave your lunch at home because food is provided. What must you bring?",
+          "explanation": "Первая фраза просит принести бутылку воды, а еду предоставят.",
+          "choices": [
+            "A map.",
+            "Water.",
+            "A plate.",
+            "Lunch."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Read: The library moved the reading club from Tuesday to Friday. On which day is the club now?",
+          "explanation": "From Tuesday to Friday означает перенос со вторника на пятницу.",
+          "choices": [
+            "Monday",
+            "Friday",
+            "Tuesday",
+            "Sunday"
+          ],
+          "correct": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-09",
+      "title": "Электронное письмо",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как лучше начать неформальное письмо другу по имени Alex?",
+          "explanation": "Hi Alex подходит для дружеского обращения.",
+          "choices": [
+            "To the manager,",
+            "Yours sincerely,",
+            "Dear Sir or Madam,",
+            "Hi Alex,"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Как в письме естественно поблагодарить за сообщение?",
+          "explanation": "Thanks for your message — обычная дружеская благодарность.",
+          "choices": [
+            "I wait your message.",
+            "No message today.",
+            "Thanks for your message!",
+            "You must send a message."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Друг спросил: How often do you exercise? Какой ответ подходит?",
+          "explanation": "Twice a week отвечает на вопрос о частоте.",
+          "choices": [
+            "I like running shoes.",
+            "I go running twice a week.",
+            "I run in the park.",
+            "I exercise with Ben."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Какой вопрос уточняет место встречи?",
+          "explanation": "Where спрашивает о месте.",
+          "choices": [
+            "When shall we meet?",
+            "How are you?",
+            "What will you bring?",
+            "Where shall we meet?"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как завершить дружеское письмо, подписанное Emma?",
+          "explanation": "Best wishes — подходящая дружеская формула прощания.",
+          "choices": [
+            "Dear Sir, Emma",
+            "Dear Emma,",
+            "Hello, Emma",
+            "Best wishes, Emma"
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-10",
+      "title": "Подготовка устного ответа",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как полностью ответить на вопрос What is your favourite season and why?",
+          "explanation": "Первый ответ называет время года и объясняет причину.",
+          "choices": [
+            "Autumn.",
+            "I have four seasons.",
+            "I like autumn because the weather is cool and the parks are colourful.",
+            "It is September."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Как связать причину с высказыванием: I enjoy reading ___ it helps me relax.",
+          "explanation": "Because вводит причину.",
+          "choices": [
+            "although",
+            "but",
+            "until",
+            "because"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Какая фраза естественно вводит пример?",
+          "explanation": "For example используется, чтобы привести пример.",
+          "choices": [
+            "For example,",
+            "In spite,",
+            "Since yesterday,",
+            "On Monday only,"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как вежливо попросить повторить вопрос?",
+          "explanation": "Could you …, please? оформляет вежливую просьбу.",
+          "choices": [
+            "Do not ask.",
+            "You repeat now.",
+            "Could you repeat the question, please?",
+            "What you say again?"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери краткий связный рассказ о планах на выходные.",
+          "explanation": "В первом ответе есть планы на оба дня и указано время.",
+          "choices": [
+            "On Saturday I will visit my grandparents. On Sunday I hope to finish my project.",
+            "Yes, because I do.",
+            "My weekend. A table. Twenty.",
+            "Yesterday was Friday. I was at school."
+          ],
+          "correct": [
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

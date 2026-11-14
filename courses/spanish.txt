@@ -1,0 +1,61 @@
+# Испанский язык
+## Настоящее время
+text|Впиши форму hablar: Yo ___ español.|hablo|В первом лице единственного числа у hablar окончание -o.
+text|Впиши форму vivir: Nosotros ___ cerca del colegio.|vivimos|Для nosotros у глагола vivir окончание -imos.
+single|Выбери форму tener: Marta ___ dos hermanos.|*tiene;tengo;tenemos;tienen|Третье лицо единственного числа глагола tener — tiene.
+text|Впиши форму ir: Tú ___ al cine los viernes.|vas|Глагол ir с tú принимает форму vas.
+single|Выбери форму hacer: ¿Qué ___ vosotros los sábados?|*hacéis;haces;hacen;hacemos|С vosotros употребляется hacéis.
+## Прошедшее время
+text|Впиши форму pretérito indefinido: Ayer yo ___ (comprar) un libro.|compré|В первом лице единственного числа у глагола на -ar в этом времени окончание -é.
+single|Выбери форму: El año pasado nosotros ___ a Sevilla.|*fuimos;vamos;voy;va|Fuimos — форма ir для nosotros в завершённом прошлом.
+text|Впиши причастие: He ___ (escribir) un mensaje.|escrito|Неправильное причастие escribir — escrito.
+single|Выбери форму imperfecto: Cuando era niño, ___ en el parque todos los días.|*jugaba;jugaré;jugar;juega|Todos los días описывает повторявшееся действие на фоне прошлого.
+single|Выбери правильную форму pretérito perfecto compuesto.|*Ellos han visto la película.;Ellos han ver la película.;Ellos ha visto la película.;Ellos son visto la película.|Для ellos нужно han и причастие visto.
+## Будущее и планы
+single|Как правильно сказать «Я собираюсь учиться сегодня вечером»?|*Voy a estudiar esta noche.;Voy estudiar esta noche.;Voy a estudié esta noche.;Vas a estudiar esta noche.|Ir a + инфинитив выражает план. Для yo нужна форма voy.
+text|Впиши futuro simple глагола viajar: Mañana yo ___ a Madrid.|viajaré|В первом лице единственного числа к инфинитиву добавляется -é.
+single|Выбери правильную форму: El próximo verano nosotros ___ en la montaña.|*estaremos;estarán;estabas;estoy|Для nosotros в будущем времени нужна форма estaremos.
+single|Как сказать «Я должен закончить домашнее задание»?|*Tengo que terminar los deberes.;Tengo terminar los deberes.;Soy que termino los deberes.;Tengo de terminé los deberes.|Tener que + инфинитив выражает необходимость.
+single|Как спросить о планах на субботу?|*¿Qué vas a hacer el sábado?;¿Qué hiciste ayer?;¿Dónde estás ahora?;¿Cuántos años tienes?|Vas a hacer спрашивает о запланированном действии.
+## Ser, estar и hay
+single|Вставь форму: Ana ___ médica.|*es;está;hay;son|Профессию называют с ser. Для Ana форма es.
+text|Вставь форму estar: El museo ___ cerca de la estación.|está|Местоположение здания передаётся через estar. Подлежащее в единственном числе.
+single|Вставь форму: En mi barrio ___ una piscina.|*hay;son;estoy;están|Hay сообщает о наличии объекта.
+single|Вставь форму: Hoy mis amigos ___ cansados.|*están;son;hay;es|Текущее состояние передаётся с estar, для mis amigos нужна форма están.
+match|Соедини конструкцию и значение.|Es de madera.=материал;Está en el centro.=местоположение;Hay dos puertas.=наличие|Ser описывает материал, estar — место, hay — наличие.
+## Артикли и согласование
+single|Выбери определённый артикль: ___ casa es grande.|*La;El;Los;Las|Casa — женский род, единственное число.
+text|Вставь неопределённый артикль: Tengo ___ libro nuevo.|un|Libro — существительное мужского рода, единственного числа.
+single|Выбери форму: dos camisas ___.|*blancas;blanco;blancos;blanca|Прилагательное согласуется с camisas в женском роде и множественном числе.
+text|Напиши множественное число lápiz.|lápices|Добавляется -es, а z перед e меняется на c. Ударение остаётся на первом слоге.
+single|Как правильно сказать «красная машина» с определённым артиклем?|*el coche rojo;la coche roja;el coche roja;los coche rojo|Coche — мужской род, единственное число. Артикль el и прилагательное rojo согласуются с ним.
+## Местоимения и предлоги
+single|Вставь предлог: Voy ___ la escuela a pie.|*a;de;con;sin|A обозначает направление.
+text|Вставь предлог, чтобы получилось «Этот подарок для тебя»: Este regalo es ___ ti.|para|Para указывает, кому предназначен подарок.
+single|Замени los libros местоимением: Compro los libros.|*Los compro.;Las compro.;Lo compro.;Le compro.|Los заменяет прямое дополнение мужского рода во множественном числе.
+single|Вставь форму: A mí me ___ las películas de aventuras.|*gustan;gusta;gusto;gustas|Las películas — подлежащее во множественном числе, поэтому gustan.
+text|Вставь возвратное местоимение: Yo ___ levanto a las siete.|me|С yo возвратный глагол levantarse употребляется с me.
+## Лексика и сравнение
+match|Сопоставь место и действие.|la biblioteca=взять книгу;la estación=сесть на поезд;la panadería=купить хлеб|Эти слова обозначают библиотеку, вокзал и пекарню.
+single|Как сказать «Этот поезд быстрее автобуса»?|*Este tren es más rápido que el autobús.;Este tren es menos rápido que el autobús.;Este tren es tan rápido como el autobús.;Este tren es rápido.|Más … que выражает большую степень признака.
+text|Впиши сравнительную форму bueno: Este plan es ___ que el anterior.|mejor|У bueno нерегулярная сравнительная форма mejor.
+single|Выбери слово: Para escribir una nota necesito un ___.|*bolígrafo;sombrero;tren;reloj|Bolígrafo — шариковая ручка.
+single|Какое слово обозначает противоположность posible?|*imposible;posiblemente;posibilidad;posible|Приставка im- перед p образует отрицательное значение.
+## Чтение коротких текстов
+single|Lee: El museo abre a las diez. Ahora son las nueve. ¿Está abierto?|*No, abre dentro de una hora.;Sí, ya está abierto.;No, abre mañana.;Sí, cierra a las nueve.|Музей откроется в десять, то есть через час.
+single|Lee: Ana quería ir en bicicleta, pero llovía y tomó el autobús. ¿Cómo fue Ana?|*En autobús.;En bicicleta.;En tren.;A pie.|Tomó el autobús означает, что она поехала на автобусе.
+single|Lee: La reunión no será el lunes, sino el martes. ¿Cuándo será?|*El martes.;El lunes.;El domingo.;El viernes.|No …, sino … противопоставляет первоначальный день правильному.
+single|Lee: La entrada es gratis para los menores de doce años. Los demás pagan cinco euros. ¿Paga un niño de diez años?|*No, entra gratis.;Sí, paga cinco euros.;Sí, paga diez euros.;No, el museo está cerrado.|Десять меньше двенадцати, поэтому ребёнок входит бесплатно.
+single|Lee: Luis llevó agua y Sara llevó fruta. ¿Qué llevó Sara?|*Fruta.;Agua.;Pan.;Leche.|Вторая часть сообщает, что Сара принесла фрукты.
+## Электронное письмо
+single|Как начать дружеское письмо Анне?|*Hola, Ana:;Atentamente,;Estimados señores:;Hasta pronto,|Hola, Ana подходит для дружеского обращения.
+single|Как поблагодарить друга за сообщение?|*Gracias por tu mensaje.;¿Dónde vives?;No tengo tu libro.;Hasta el lunes.|Gracias por tu mensaje означает «Спасибо за твоё сообщение».
+single|Друг спрашивает ¿Con qué frecuencia haces deporte? Какой ответ подходит?|*Juego al tenis dos veces por semana.;Juego en el parque.;Me gustan mis zapatillas.;Juego con Pablo.|Dos veces por semana указывает частоту.
+single|Как спросить, где вы встретитесь?|*¿Dónde nos encontramos?;¿Cuándo llegas?;¿Cuánto cuesta?;¿Por qué llamas?|Dónde спрашивает о месте.
+single|Как завершить дружеское письмо от Софии?|*Un abrazo, Sofía;Hola, Sofía:;Querida Sofía:;Señora Sofía:|Un abrazo — дружеская формула прощания.
+## Подготовка устного ответа
+single|Как вежливо попросить повторить вопрос?|*¿Puede repetir la pregunta, por favor?;No pregunte nada.;Es mi pregunta.;Repito la respuesta.|Puede …, por favor? оформляет вежливую просьбу.
+single|Вставь союз: Me gusta leer ___ me ayuda a relajarme.|*porque;pero;o;aunque|Porque вводит причину.
+single|Как начать пример?|*Por ejemplo,;Hasta luego,;Buenos días,;Sin embargo,|Por ejemplo означает «например».
+single|Как ответить на ¿Qué haces los fines de semana?, назвав занятие?|*Los sábados juego al baloncesto con mis amigos.;Los sábados.;Soy estudiante.;Mañana es lunes.|Первый ответ сообщает, чем говорящий занимается по субботам.
+single|Как сказать «По-моему, читать полезно»?|*En mi opinión, leer es útil.;Leo en la biblioteca.;¿Dónde está el libro?;No puedo leer hoy.|En mi opinión вводит личное мнение.

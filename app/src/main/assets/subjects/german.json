@@ -1,0 +1,750 @@
+{
+  "id": "german",
+  "title": "Немецкий язык",
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Настоящее время",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Впиши форму глагола: Ich ___ (wohnen) in Berlin.",
+          "explanation": "У глагола wohnen в первом лице единственного числа окончание -e.",
+          "accepted": [
+            "wohne"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Впиши форму: Du ___ (sprechen) sehr gut Deutsch.",
+          "explanation": "У sprechen во втором лице единственного числа e меняется на i, добавляется -st.",
+          "accepted": [
+            "sprichst"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Выбери форму: Er ___ jeden Morgen mit dem Bus.",
+          "explanation": "Для er глагол fahren принимает форму fährt.",
+          "choices": [
+            "fahrt",
+            "fährt",
+            "fahren",
+            "fährst"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Впиши форму sein: Wir ___ heute zu Hause.",
+          "explanation": "С местоимением wir употребляется sind.",
+          "accepted": [
+            "sind"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери форму haben: Ihr ___ heute zwei Stunden Deutsch.",
+          "explanation": "У глагола haben форма второго лица множественного числа — habt.",
+          "choices": [
+            "hat",
+            "hast",
+            "habt",
+            "haben"
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02",
+      "title": "Прошедшее время",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Выбери вспомогательный глагол: Gestern ___ ich nach Köln gefahren.",
+          "explanation": "У fahren при перемещении в Perfekt употребляется sein.",
+          "choices": [
+            "warst",
+            "hat",
+            "bin",
+            "habe"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Впиши причастие: Wir haben gestern Fußball ___ (spielen).",
+          "explanation": "Регулярное причастие spielen имеет форму gespielt.",
+          "accepted": [
+            "gespielt"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Вставь правильную форму: Meine Schwester hat das Buch ___.",
+          "explanation": "У lesen причастие Partizip II имеет форму gelesen.",
+          "choices": [
+            "gelesen",
+            "liest",
+            "lesen",
+            "geleset"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Впиши Präteritum глагола sein: Das Wetter ___ schön.",
+          "explanation": "С das Wetter употребляется форма третьего лица единственного числа war.",
+          "accepted": [
+            "war"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери верное предложение.",
+          "explanation": "В повествовательном предложении habe стоит на втором месте, а причастие besucht — в конце.",
+          "choices": [
+            "Am Samstag ich habe meine Oma besucht.",
+            "Am Samstag habe besucht ich meine Oma.",
+            "Am Samstag ich besucht habe meine Oma.",
+            "Am Samstag habe ich meine Oma besucht."
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03",
+      "title": "Порядок слов",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Выбери правильный порядок слов.",
+          "explanation": "Если Heute стоит первым, спрягаемый глагол lerne следует сразу за ним.",
+          "choices": [
+            "Heute Deutsch ich lerne.",
+            "Lerne heute Deutsch ich.",
+            "Heute lerne ich Deutsch.",
+            "Heute ich lerne Deutsch."
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "В каком вопросе глагол стоит на нужном месте?",
+          "explanation": "В общем вопросе спрягаемый глагол стоит на первом месте.",
+          "choices": [
+            "Du morgen kommst?",
+            "Kommst morgen du?",
+            "Kommst du morgen?",
+            "Morgen du kommst?"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Заверши придаточное: Ich bleibe zu Hause, weil ___.",
+          "explanation": "После weil спрягаемый глагол ставится в конец придаточного.",
+          "choices": [
+            "bin ich krank",
+            "ich bin krank",
+            "ich krank bin",
+            "krank bin ich"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как сказать «Мы встаём в семь»?",
+          "explanation": "Отделяемая приставка auf в простом предложении стоит в конце.",
+          "choices": [
+            "Wir auf stehen um sieben Uhr.",
+            "Wir stehen um sieben Uhr auf.",
+            "Wir um sieben Uhr stehen auf.",
+            "Wir aufstehen um sieben Uhr."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери грамматически верное предложение с модальным глаголом.",
+          "explanation": "После kann смысловой глагол schwimmen употребляется в инфинитиве в конце.",
+          "choices": [
+            "Ich schwimmen kann gut.",
+            "Ich gut kann schwimme.",
+            "Ich kann schwimme gut.",
+            "Ich kann gut schwimmen."
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04",
+      "title": "Артикли и падежи",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Какой определённый артикль нужен: ___ Buch liegt auf dem Tisch?",
+          "explanation": "Buch — средний род, а подлежащему нужен именительный падеж: das Buch.",
+          "choices": [
+            "Das",
+            "Die",
+            "Den",
+            "Der"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Вставь определённый артикль: Ich sehe ___ Hund.",
+          "explanation": "Hund мужского рода. В Akkusativ der меняется на den.",
+          "accepted": [
+            "den"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "text",
+          "prompt": "Вставь определённый артикль: Ich helfe ___ Kind.",
+          "explanation": "Helfen требует Dativ. Для среднего рода артикль dem.",
+          "accepted": [
+            "dem"
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Выбери неопределённый артикль: Ich kaufe ___ Lampe.",
+          "explanation": "Lampe женского рода, в Akkusativ неопределённый артикль — eine.",
+          "choices": [
+            "ein",
+            "einem",
+            "einen",
+            "eine"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Какое местоимение заменяет meine Eltern в роли подлежащего?",
+          "explanation": "Eltern — множественное число. Местоимение подлежащего — sie.",
+          "choices": [
+            "sie",
+            "ihn",
+            "er",
+            "es"
+          ],
+          "correct": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05",
+      "title": "Предлоги",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Выбери предлог: Der Film beginnt ___ acht Uhr.",
+          "explanation": "Точное время на часах употребляется с um.",
+          "choices": [
+            "um",
+            "seit",
+            "im",
+            "am"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Вставь сокращённый предлог с артиклем: Wir gehen ___ Montag ins Kino.",
+          "explanation": "Дни недели употребляются с am, сокращением an dem.",
+          "accepted": [
+            "am"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Вставь предлог со значением «на автобусе»: Ich fahre ___ dem Bus.",
+          "explanation": "Mit обозначает способ передвижения и требует Dativ.",
+          "choices": [
+            "ohne",
+            "durch",
+            "für",
+            "mit"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Вставь предлог: Das Geschenk ist ___ dich.",
+          "explanation": "Für означает «для» и требует Akkusativ.",
+          "accepted": [
+            "für"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Где правильная форма: Das Bild hängt ___ Wand.",
+          "explanation": "Для положения без перемещения an требует Dativ: an der Wand.",
+          "choices": [
+            "auf dem",
+            "aus die",
+            "an der",
+            "an die"
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-06",
+      "title": "Сравнение и множественное число",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "text",
+          "prompt": "Впиши сравнительную форму: Das ist ___ (gut) als gestern.",
+          "explanation": "Gut имеет нерегулярную сравнительную форму besser.",
+          "accepted": [
+            "besser"
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Вставь союз: Mia ist größer ___ Leo.",
+          "explanation": "При сравнительной степени для различия употребляется als.",
+          "choices": [
+            "wie",
+            "weil",
+            "und",
+            "als"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Вставь слово: Mia ist genauso groß ___ Lea.",
+          "explanation": "После genauso для равенства используется wie.",
+          "choices": [
+            "wie",
+            "denn",
+            "oder",
+            "als"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "text",
+          "prompt": "Напиши форму множественного числа существительного Buch без артикля.",
+          "explanation": "В форме Bücher добавляется -er и появляется умлаут.",
+          "accepted": [
+            "Bücher"
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Выбери превосходную форму: Von allen läuft Tom ___.",
+          "explanation": "Для наречия в превосходной степени подходит am schnellsten.",
+          "choices": [
+            "schneller",
+            "am schneller",
+            "am schnellsten",
+            "am schnell"
+          ],
+          "correct": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-07",
+      "title": "Слова и словообразование",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "match",
+          "prompt": "Сопоставь слова по значению.",
+          "explanation": "Все три слова относятся к транспорту, но называют место, билет и расписание соответственно.",
+          "left": [
+            "die Haltestelle",
+            "die Fahrkarte",
+            "der Fahrplan"
+          ],
+          "choices": [
+            "проездной билет",
+            "расписание движения",
+            "остановка"
+          ],
+          "matches": [
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "text",
+          "prompt": "Впиши слово со значением «несчастливый»: Er war gestern ___ (glücklich).",
+          "explanation": "Приставка un- образует противоположное значение.",
+          "accepted": [
+            "unglücklich"
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Какое слово означает «человек, который преподаёт», в мужском роде?",
+          "explanation": "Lehrer образовано от lehren и обозначает учителя.",
+          "choices": [
+            "die Schule",
+            "der Lehrer",
+            "das Lehrbuch",
+            "der Schüler"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Какое сложное слово означает «школьный двор»?",
+          "explanation": "Schulhof объединяет Schule и Hof.",
+          "choices": [
+            "das Schulbuch",
+            "der Schulhof",
+            "die Schultasche",
+            "das Schuljahr"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Какое слово подходит: Vor der Reise packe ich meinen ___.",
+          "explanation": "Koffer — чемодан, в него складывают вещи перед поездкой.",
+          "choices": [
+            "Wecker",
+            "Unterricht",
+            "Bahnhof",
+            "Koffer"
+          ],
+          "correct": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-08",
+      "title": "Чтение коротких текстов",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Lies: Die Bibliothek ist am Montag geschlossen. Am Dienstag öffnet sie um zehn. Wann kann man am Dienstag hinein?",
+          "explanation": "Во вторник библиотека открывается в десять.",
+          "choices": [
+            "Erst am Mittwoch.",
+            "Ab zehn Uhr.",
+            "Ab acht Uhr.",
+            "Gar nicht."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Lies: Lina wollte radeln, aber es regnete. Deshalb nahm sie den Bus. Wie fuhr Lina?",
+          "explanation": "Из-за дождя Лина поехала на автобусе.",
+          "choices": [
+            "Mit dem Bus.",
+            "Mit dem Zug.",
+            "Zu Fuß.",
+            "Mit dem Fahrrad."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Lies: Ben bringt Brot. Mia bringt Saft. Was bringt Mia?",
+          "explanation": "Во втором предложении сказано, что Мия принесёт сок.",
+          "choices": [
+            "Wasser.",
+            "Saft.",
+            "Obst.",
+            "Brot."
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Lies: Unser Treffen findet nicht im Park, sondern im Café statt. Wo treffen wir uns?",
+          "explanation": "Nicht …, sondern … исправляет место встречи: в кафе.",
+          "choices": [
+            "Im Kino.",
+            "Im Park.",
+            "Zu Hause.",
+            "Im Café."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Lies: Der Eintritt für Kinder ist frei. Erwachsene zahlen fünf Euro. Wer bezahlt fünf Euro?",
+          "explanation": "Билет для детей бесплатный, взрослые платят пять евро.",
+          "choices": [
+            "Erwachsene.",
+            "Niemand.",
+            "Alle Kinder.",
+            "Nur Schüler."
+          ],
+          "correct": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-09",
+      "title": "Электронное письмо",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как начать дружеское письмо Лене?",
+          "explanation": "Liebe Lena — личное обращение в дружеском письме.",
+          "choices": [
+            "Mit freundlichen Grüßen,",
+            "Bis bald,",
+            "Liebe Lena,",
+            "Sehr geehrte Damen und Herren,"
+          ],
+          "correct": [
+            2
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Как поблагодарить друга за письмо?",
+          "explanation": "Danke für deine Nachricht означает «Спасибо за твоё сообщение».",
+          "choices": [
+            "Danke für deine Nachricht!",
+            "Geh bitte nach Hause!",
+            "Ich habe keine Zeit.",
+            "Wo ist deine Tasche?"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Друг спрашивает: Wie oft liest du? Какой ответ сообщает частоту?",
+          "explanation": "Jeden Abend означает «каждый вечер».",
+          "choices": [
+            "Ich lese jeden Abend.",
+            "Ich lese im Bett.",
+            "Ich lese mit meiner Schwester.",
+            "Ich lese Krimis."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как спросить, во сколько начинается урок?",
+          "explanation": "Um wie viel Uhr спрашивает точное время.",
+          "choices": [
+            "Wo ist deine Schule?",
+            "Wie heißt dein Lehrer?",
+            "Wie viele Bücher hast du?",
+            "Um wie viel Uhr beginnt der Unterricht?"
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как дружески завершить письмо, подписанное Anna?",
+          "explanation": "Liebe Grüße — дружеская формула в конце письма.",
+          "choices": [
+            "Liebe Anna,",
+            "Liebe Grüße, Anna",
+            "Sehr geehrte Anna,",
+            "Hallo Anna,"
+          ],
+          "correct": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-10",
+      "title": "Подготовка устного ответа",
+      "questions": [
+        {
+          "id": "q01",
+          "type": "single",
+          "prompt": "Как вежливо попросить собеседника повторить вопрос?",
+          "explanation": "Können Sie … bitte? оформляет вежливую просьбу.",
+          "choices": [
+            "Können Sie die Frage bitte wiederholen?",
+            "Sagen Sie nichts.",
+            "Das ist meine Frage.",
+            "Ich frage dich morgen."
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q02",
+          "type": "single",
+          "prompt": "Как связать ответ с причиной: Ich mag den Sommer, ___ ich dann schwimmen kann.",
+          "explanation": "Weil вводит причину. Kann стоит в конце придаточного.",
+          "choices": [
+            "oder",
+            "weil",
+            "aber",
+            "und dann"
+          ],
+          "correct": [
+            1
+          ]
+        },
+        {
+          "id": "q03",
+          "type": "single",
+          "prompt": "Какая фраза вводит пример?",
+          "explanation": "Zum Beispiel означает «например».",
+          "choices": [
+            "Zum Beispiel",
+            "Guten Morgen",
+            "Bis morgen",
+            "Auf Wiedersehen"
+          ],
+          "correct": [
+            0
+          ]
+        },
+        {
+          "id": "q04",
+          "type": "single",
+          "prompt": "Как ответить на Was machst du am Wochenende?, сообщив занятие?",
+          "explanation": "Ответ называет, чем человек будет заниматься в субботу.",
+          "choices": [
+            "Am Wochenende.",
+            "Ich bin vierzehn.",
+            "Heute ist Montag.",
+            "Ich spiele am Samstag Fußball."
+          ],
+          "correct": [
+            3
+          ]
+        },
+        {
+          "id": "q05",
+          "type": "single",
+          "prompt": "Как сказать «По моему мнению, читать полезно»?",
+          "explanation": "Meiner Meinung nach вводит личное мнение.",
+          "choices": [
+            "Meiner Meinung nach ist Lesen nützlich.",
+            "Das Buch liegt hier.",
+            "Ich bin heute zu Hause.",
+            "Wie viel kostet das Buch?"
+          ],
+          "correct": [
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

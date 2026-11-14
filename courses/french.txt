@@ -1,0 +1,61 @@
+# Французский язык
+## Настоящее время
+text|Впиши форму parler: Je ___ français.|parle|У parler в первом лице единственного числа окончание -e.
+text|Впиши форму aller: Nous ___ à la bibliothèque.|allons|Для nous глагол aller принимает форму allons.
+single|Выбери форму être: Elles ___ en classe.|*sont;est;êtes;sommes|С elles употребляется sont.
+text|Впиши форму avoir: Tu ___ un vélo rouge.|as|С tu глагол avoir принимает форму as.
+single|Выбери форму finir: Vous ___ à dix heures.|*finissez;finis;finit;finissent|Для vous форма глагола finir — finissez.
+## Прошедшее время
+text|Впиши причастие manger: Hier, j’ai ___ une pomme.|mangé|У правильного глагола на -er причастие оканчивается на -é.
+single|Выбери форму: Léa est ___ à Paris hier.|*arrivée;arrivé;arriver;arrivées|С être причастие согласуется с Léa в женском роде единственного числа.
+text|Впиши причастие faire: Nous avons ___ le travail.|fait|Неправильное причастие глагола faire — fait.
+single|Выбери форму imparfait: Quand j’étais petit, je ___ souvent au parc.|*jouais;joue;jouer;jouons|Повторявшееся действие в прошлом можно выразить imparfait.
+single|Выбери правильную форму passé composé.|*Ils ont pris le train.;Ils sont pris le train.;Ils ont prendre le train.;Ils ont prend le train.|Prendre использует avoir и причастие pris.
+## Будущее и отрицание
+single|Как правильно выразить ближайшее будущее?|*Je vais lire ce livre.;Je vais lu ce livre.;Je va lire ce livre.;Je vais lis ce livre.|Futur proche строится из формы aller и инфинитива.
+text|Впиши futur simple глагола être: Demain, nous ___ prêts.|serons|Будущая основа être — ser-, окончание nous — -ons.
+single|Выбери обычное письменное отрицание.|*Je ne comprends pas.;Je comprends ne pas.;Je pas comprends.;Je ne pas comprends.|Ne и pas окружают спрягаемый глагол.
+single|Как сказать «Я никогда не пью кофе»?|*Je ne bois jamais de café.;Je bois toujours du café.;Je ne bois pas encore de café.;Je ne bois plus de café.|Ne … jamais означает «никогда».
+single|Выбери правильный вопрос с est-ce que.|*Est-ce que tu viens demain ?;Est-ce que viens tu demain ?;Est que tu viens demain ?;Tu est-ce que viens demain ?|После est-ce que сохраняется прямой порядок слов tu viens.
+## Артикли и род
+single|Выбери определённый артикль: ___ école est grande.|*L’;Le;La;Les|Le и la перед гласным сокращаются до l’.
+text|Вставь неопределённый артикль: J’ai acheté ___ cahier.|un|Cahier — существительное мужского рода в единственном числе.
+single|Выбери частичный артикль: Elle boit ___ lait.|*du;de la;des;au|С неисчисляемым lait мужского рода в таком контексте нужен du.
+single|Выбери правильную форму прилагательного: une robe ___.|*verte;vert;verts;vertes|Robe — женский род единственного числа. Форма прилагательного verte.
+text|Вставь определённый артикль: ___ enfants jouent dans le jardin.|les|Во множественном числе используется определённый артикль les.
+## Местоимения и предлоги
+single|Вставь форму для города: Il habite ___ Lyon.|*à;au;en;aux|Перед названием города в этом значении используется à.
+text|Вставь предлог, если она едет во Францию: Elle part ___ France demain.|en|С названием France для направления употребляется en.
+single|Как правильно сказать «Я иду в кино»?|*Je vais au cinéma.;Je vais à le cinéma.;Je vais en cinéma.;Je vais du cinéma.|À + le сливаются в au.
+single|Замени le livre местоимением: Je lis le livre.|*Je le lis.;Je la lis.;Je lui lis.;J’y lis.|Le заменяет прямое дополнение мужского рода единственного числа.
+text|Вставь притяжательное слово: C’est le sac de Marie. C’est ___ sac.|son|Притяжательное определение согласуется с sac, существительным мужского рода.
+## Сравнение и количество
+single|Как сказать «Этот поезд быстрее автобуса»?|*Ce train est plus rapide que le bus.;Ce train est aussi rapide que le bus.;Ce train est moins rapide que le bus.;Ce train est très rapide.|Plus … que выражает большую степень признака.
+text|Допиши сравнительную форму bon: Ce résultat est ___ que le premier.|meilleur|Сравнительная форма прилагательного bon в мужском роде — meilleur.
+single|Выбери продолжение: Il y a beaucoup ___ livres ici.|*de;des;du;les|После beaucoup обычно используется de.
+single|Как сказать «У меня три брата»?|*J’ai trois frères.;Je suis trois frères.;J’ai troisième frère.;J’ai frère trois.|J’ai означает «у меня есть», а trois обозначает количество.
+single|Как по-французски «несколько друзей»?|*quelques amis;chaque ami;aucun ami;un seul ami|Quelques употребляется с множественным числом и обозначает неопределённое небольшое количество.
+## Лексика и словообразование
+match|Сопоставь место и действие.|une boulangerie=купить хлеб;une gare=сесть на поезд;une piscine=плавать|Boulangerie — пекарня, gare — вокзал, piscine — бассейн.
+text|Образуй наречие от rapide: Il répond ___.|rapidement|К форме rapide добавляется суффикс -ment.
+single|Какое слово означает «счастливый»?|*heureux;triste;fatigué;malade|Heureux означает «счастливый».
+single|Какое слово означает «ученица»?|*une élève;une école;une leçon;une classe|Une élève обозначает учащуюся.
+single|Подбери слово: J’écris avec un ___.|*stylo;chapeau;vélo;bateau|Stylo — ручка, которой пишут.
+## Чтение коротких текстов
+single|Lis : Le musée ferme à six heures. Il est cinq heures maintenant. Le musée est-il encore ouvert ?|*Oui, il ferme dans une heure.;Non, il est fermé.;Il ouvre dans deux heures.;Il ferme demain.|Музей закрывается в шесть, сейчас пять. Он ещё открыт.
+single|Lis : Nina a oublié son parapluie, mais son amie lui en a prêté un. Qui lui a prêté le parapluie ?|*Son amie.;Son frère.;Son professeur.;Personne.|Son amie — подлежащее фразы о том, кто одолжил зонт.
+single|Lis : Le match prévu samedi aura lieu dimanche à cause de la pluie. Quand est le match ?|*Dimanche.;Samedi.;Vendredi.;Lundi.|Aura lieu dimanche означает «состоится в воскресенье».
+single|Lis : L’entrée est gratuite pour les enfants. Les adultes paient huit euros. Qui paie ?|*Les adultes.;Les enfants.;Tout le monde.;Personne.|Последнее предложение говорит, что взрослые платят восемь евро.
+single|Lis : Paul prend le métro pour aller à l’école parce que son vélo est cassé. Pourquoi prend-il le métro ?|*Son vélo est cassé.;Il habite à l’école.;Il pleut.;Le métro est fermé.|После parce que названа причина: велосипед сломан.
+## Электронное письмо
+single|Как начать дружеское письмо Луи?|*Salut Louis !;Madame, Monsieur,;Cordialement,;À bientôt !|Salut Louis — неформальное обращение в начале письма.
+single|Как поблагодарить друга за сообщение?|*Merci pour ton message !;Où est ton sac ?;Je ne sais pas.;Il faut partir.|Merci pour ton message означает «Спасибо за твоё сообщение».
+single|Друг спрашивает Quand viens-tu ? Как ответить по существу?|*Je viens samedi matin.;Je viens en train.;Je viens avec Léa.;Je viens à Paris.|Samedi matin сообщает время приезда.
+single|Как спросить, где встретиться?|*Où est-ce qu’on se retrouve ?;Pourquoi est-ce qu’on part ?;Combien ça coûte ?;Comment vas-tu ?|Où спрашивает о месте, se retrouver означает встретиться.
+single|Как дружески закончить письмо от Лины?|*À bientôt, Lina;Bonjour Lina;Chère Lina;Madame Lina|À bientôt — формула прощания «До скорого».
+## Подготовка устного ответа
+single|Как вежливо попросить повторить вопрос?|*Pouvez-vous répéter la question, s’il vous plaît ?;Ne posez pas de question.;J’ai une question.;Vous avez répondu.|Pouvez-vous …, s’il vous plaît ? — вежливая просьба.
+single|Какой союз вводит причину: J’aime le sport ___ il me détend.|*parce qu’;mais;ou;donc|Parce que означает «потому что» и сокращается до parce qu’ перед il.
+single|Как начать пример?|*Par exemple,;Au revoir,;À demain,;Tout à fait,|Par exemple означает «например».
+single|Как ответить на Quel est ton loisir préféré et pourquoi ?|*J’aime dessiner parce que je peux inventer des personnages.;C’est mardi.;Oui, je viens.;J’habite près du parc.|Первый ответ называет любимое занятие и объясняет причину.
+single|Как начать высказывание «По-моему, читать полезно»?|*À mon avis, lire est utile.;À quelle heure est le cours ?;Je ne trouve pas mon livre.;Le magasin est fermé.|À mon avis вводит мнение.
